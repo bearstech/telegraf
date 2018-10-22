@@ -208,6 +208,7 @@ For documentation on the latest development code see the [documentation index][d
 * [nfsclient](./plugins/inputs/nfsclient)
 * [nginx](./plugins/inputs/nginx)
 * [nginx_plus](./plugins/inputs/nginx_plus)
+* [nginx_plus_api](./plugins/inputs/nginx_plus_api)
 * [nsq_consumer](./plugins/inputs/nsq_consumer)
 * [nsq](./plugins/inputs/nsq)
 * [nstat](./plugins/inputs/nstat)
